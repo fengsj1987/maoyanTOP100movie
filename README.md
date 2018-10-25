@@ -1,0 +1,2 @@
+# maoyanTOP100movie
+利用requests、BeautifulSoup CSS selector爬取猫眼排行前100电影信息
